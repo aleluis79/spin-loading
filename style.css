@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+spin-loading {
+    --tamanio: 80px;
+    --grosor: 10px;
+    --color: purple;
+    --color-base: blue;
+    --velocidad: .5s;
+}   
